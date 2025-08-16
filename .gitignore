@@ -1,0 +1,1 @@
+-e "node_modules/\ndist/\n.build/\n.cache/\n.DS_Store\n.env*\n" 
